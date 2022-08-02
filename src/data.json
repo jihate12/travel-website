@@ -1,0 +1,46 @@
+
+[
+    {
+      "id": 1,
+      "nama": "Bali",
+      "destinasi": [
+        {
+          "id": 1,
+          "nama": "Pantai Kuta",
+          "durasi": 5,
+          "rating": 4.5,
+          "totalRating": 587,
+          "harga": "1.300.000",
+          "gambar": "https://blog.tripcetera.com/id/wp-content/uploads/2020/03/leebudihart_76864081_2484833498431751_3194446755026370817_n.jpg"
+        },
+        {
+          "id": 2,
+          "nama": "Tanah Lot",
+          "durasi": 3.5,
+          "rating": 4,
+          "totalRating": 654,
+          "harga": "1.550.000",
+          "gambar": "https://www.rentalmobilbali.net/wp-content/uploads/2019/12/Sunset-Pura-Tanah-Lot-Bali-Twitter.jpg"
+        },
+        {
+          "id": 3,
+          "nama": "Garuda Wisnu Kencana",
+          "durasi": 5,
+          "rating": 5,
+          "totalRating": 832,
+          "harga": "758.000",
+          "gambar": "https://asset.kompas.com/crops/fhyXeS2borIrSmZbPebufHwNVdQ=/12x8:993x662/750x500/data/photo/2018/09/27/1679906755.jpg"
+        },
+        {
+          "id": 4,
+          "nama": "Pantai Pandawa",
+          "durasi": 3,
+          "rating": 3.5,
+          "totalRating": 133,
+          "harga": "850.000",
+          "gambar": "https://disparda.baliprov.go.id/wp-content/uploads/2020/09/pandawa-1-Copy.jpg"
+        }
+      ]
+    }
+
+]
